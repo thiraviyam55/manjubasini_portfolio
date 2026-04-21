@@ -30,6 +30,14 @@ export default function Navbar() {
           <Link href="#about">About</Link>
           <Link href="#experience">Experience</Link>
           <Link href="#education-skills">Education</Link>
+          <a 
+  href="/SAP-Manjubasini_Santhanam.pdf" 
+  download
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  Download Resume
+</a>
           <Link href="#contact" className={styles.cta}>Contact</Link>
         </div>
       </div>

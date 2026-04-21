@@ -23,7 +23,7 @@ export default function About() {
           
           <div className={styles.statsColumn}>
             <div className={styles.statCard}>
-              <h3 className={styles.statNumber}>03+</h3>
+              <h3 className={styles.statNumber}>04+</h3>
               <p className={styles.statText}>Years of<br/>Experience</p>
             </div>
             <div className={styles.statCard}>

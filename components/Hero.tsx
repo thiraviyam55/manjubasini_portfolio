@@ -12,8 +12,8 @@ export default function Hero() {
           </div>
           <h1 className={styles.title}>
             I&apos;m Manjubasini <br />
-            <span className={styles.highlight}>SAP SuccessFactors</span> <br />
-            Consultant
+            <span className={styles.highlight}>SAP SuccessFactors EC Consultant </span> <br />
+            HR Tech Specialist
           </h1>
           <p className={styles.description}>
             Functional Consultant with 3+ years of experience in HR operations including employee lifecycle management, payroll, and SAP SuccessFactors Employee Central configuration.
@@ -39,7 +39,7 @@ export default function Hero() {
             priority
           />
           <div className={styles.experienceTag}>
-            <span className={styles.years}>3+</span>
+            <span className={styles.years}>4+</span>
             <span className={styles.text}>Years<br />Experience</span>
           </div>
         </div>
