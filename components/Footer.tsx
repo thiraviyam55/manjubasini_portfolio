@@ -21,6 +21,14 @@ export default function Footer() {
             <Link href="#about">About</Link>
             <Link href="#experience">Experience</Link>
             <Link href="#education-skills">Education & Skills</Link>
+            <a 
+  href="/SAP-Manjubasini_Santhanam.pdf" 
+  download
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  Download Resume
+</a>
           </div>
         </div>
         
